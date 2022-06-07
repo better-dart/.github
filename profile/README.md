@@ -28,3 +28,21 @@
 
 - awesome flutter/dart packages and apps.
 
+
+### Chat Group: 
+
+<a href="https://discord.com/invite/MnDA9pfWAW" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-GossipCoder-%237289DA.svg?logo=iscord&logoColor=white" alt="Discord">
+</a> 
+
+
+
+
+### Projects: 
+
+- [flutter-template](https://github.com/better-dart/flutter-template)
+    - Flutter 项目脚手架, 快速初始化 Flutter 项目, 集成各种常用组件, 开箱即用.
+    - ⭐⭐⭐⭐
+- [pkg](https://github.com/better-dart/pkg)
+    - monorepo, 常用 flutter 组件库. 
+    - ⭐⭐⭐⭐
