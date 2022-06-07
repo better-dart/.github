@@ -1,5 +1,5 @@
 
-## Related: 
+## Related 🍄
 
 - 😄 欢迎也使用我的其他语言的项目.
 
@@ -9,6 +9,7 @@
 | [better-rs](https://github.com/better-rs/) | Rust 相关 | ⭐⭐⭐⭐⭐ |
 | [better-go](https://github.com/better-go) | Golang 相关 | ⭐⭐⭐⭐⭐ |
 | [better-py](https://github.com/better-py) | Python 相关 | ⭐⭐⭐⭐ |
+| [better-sre](https://github.com/better-sre) | DevOps 相关 | ⭐⭐⭐⭐ |
 
 
 
@@ -46,17 +47,7 @@
 
 
 
-
-### Chat Group: 
-
-<a href="https://discord.com/invite/MnDA9pfWAW" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-GossipCoder-%237289DA.svg?logo=iscord&logoColor=white" alt="Discord">
-</a> 
-
-
-
-
-### Projects: 
+## Hot Projects 🔥
 
 - [flutter-template](https://github.com/better-dart/flutter-template)
     - Flutter 项目脚手架, 快速初始化 Flutter 项目, 集成各种常用组件, 开箱即用.
